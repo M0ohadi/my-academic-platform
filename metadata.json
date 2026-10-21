@@ -1,0 +1,8 @@
+{
+  "name": "Remix إسناد | المنصة الأكاديمية الذكية للدراسات العليا",
+  "description": "منصة أبحاث متطورة لطلبة الماجستير والدكتوراه تقدم 10 خدمات بحثية دقيقة مبنية على الذكاء الاصطناعي الأكاديمي مع دعم كامل للغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
